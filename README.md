@@ -3,7 +3,7 @@ Official code for our paper "**An Autoregressive Text-to-Graph Framework for Joi
 
 TO DO:
 - Add config file
-- Remove dependency of AllenNLP
+- Remove dependency on AllenNLP
 
 
 ## Citation
