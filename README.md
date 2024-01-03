@@ -1,2 +1,2 @@
 # ATG
-Planning to release the code early in 2024..
+Official code for our paper "**An Autoregressive Text-to-Graph Framework for Joint Entity and Relation Extraction**".
