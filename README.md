@@ -3,3 +3,17 @@ Official code for our paper "**An Autoregressive Text-to-Graph Framework for Joi
 
 TO DO:
 - Remove dependency of AllenNLP
+
+
+## Citation
+
+```bibtex
+@misc{urchade2024autoregressive,
+      title={An Autoregressive Text-to-Graph Framework for Joint Entity and Relation Extraction}, 
+      author={Zaratiana Urchade and Nadi Tomeh and Pierre Holat and Thierry Charnois},
+      year={2024},
+      eprint={2401.01326},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
