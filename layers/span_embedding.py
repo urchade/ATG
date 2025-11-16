@@ -1,8 +1,9 @@
 import torch
 import torch.nn.functional as F
-from allennlp.modules.span_extractors import EndpointSpanExtractor, SelfAttentiveSpanExtractor, \
-    BidirectionalEndpointSpanExtractor
 from torch import nn
+
+from layers.allennlp_replacement import EndpointSpanExtractor, SelfAttentiveSpanExtractor, \
+    BidirectionalEndpointSpanExtractor
 
 
 class SpanQuery(nn.Module):
